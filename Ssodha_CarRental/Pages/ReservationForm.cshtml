@@ -1,0 +1,55 @@
+﻿@page
+@model Ssodha_CarRental.Pages.ReservationFormModel
+@{
+}
+
+    <head>
+        <title>
+            Reservation Form
+        </title>
+    </head>
+    <body>
+        <h1>Reservation Form</h1>
+        <div>
+            <form method="post">
+                <div>
+                <div>
+                    <!--list of available cars -->
+                    <label for="car">Choose a car:</label>
+                    <select id="car" name="car">
+                        @foreach (var car in Model.cars)
+                        {
+                            <option value="@($"{car.Brand} {car.Model}")">@($"{car.Brand} - {car.Model}")</option>
+                        }
+                    </select>
+                </div>
+
+                </div>
+                <div>
+                     <!--name field -->
+                    <label>Enter Your Full Name</label>
+                    <input type="text" class="form-control" id="cusName" name="cusName"/>
+                    <span asp-validation-for="CusName" class="text-danger"></span>
+                </div>
+                <div>
+                    <!--number field -->
+                    <label>Enter Your Contact Number:</label>
+                    <input type="text" class="form-control" id="cNo" name="cNo" />
+                    <span asp-validation-for="CNo" class="text-danger"></span>
+                </div>
+                <div>
+                    <!--date selection -->
+                    <label>Select Date&time for Reservation: </label>
+                    <input type="datetime-local" class="form-control" id="dateTime" name="dateTime"/>
+                </div>
+                <br />
+                <div>
+                    <!--book btn-->
+                    <button type="submit" class="btn btn-primary" >Book</button>
+                    <!--link to home-->
+                    <a href="/Index" class="btn btn-primary">Home Page</a>
+                </div>
+            </form>
+        </div>
+    </body>
+

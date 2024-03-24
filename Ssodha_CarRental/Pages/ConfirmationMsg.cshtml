@@ -1,0 +1,14 @@
+﻿@page
+@model Ssodha_CarRental.Pages.ConfirmationMsgModel
+@{
+    ViewData["Title"] = "Confirmation";
+}
+<!--when reservation done show details of car n user and a success msg-->
+<h1>Car Reserved!</h1>
+<p>Car: @Model.Car</p>
+<p>Customer Name: @Model.CusName</p>
+<p>Contact: @Model.CNo</p>
+<p>Reserved from: @Model.DateTime</p>
+
+<!--link to home page-->
+<a asp-page="/Index">Home Page</a>

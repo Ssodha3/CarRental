@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Ssodha_CarRental.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ssodha_CarRental.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\images\\HondaCivic.jpg",
+      "PackagePath": "staticwebassets\\images\\HondaCivic.jpg"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\images\\HondaFit.jpg",
+      "PackagePath": "staticwebassets\\images\\HondaFit.jpg"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\images\\HondaHRV.jpg",
+      "PackagePath": "staticwebassets\\images\\HondaHRV.jpg"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\images\\HyundaiCreta.jpg",
+      "PackagePath": "staticwebassets\\images\\HyundaiCreta.jpg"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\images\\KiaSeltos.jpg",
+      "PackagePath": "staticwebassets\\images\\KiaSeltos.jpg"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\images\\KiaSportage.jpg",
+      "PackagePath": "staticwebassets\\images\\KiaSportage.jpg"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\images\\MercedesBenzAmgGls.jpg",
+      "PackagePath": "staticwebassets\\images\\MercedesBenzAmgGls.jpg"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\images\\MercedesBenzSClass.jpg",
+      "PackagePath": "staticwebassets\\images\\MercedesBenzSClass.jpg"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ssodha_CarRental.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Ssodha_CarRental.props",
+      "PackagePath": "build\\Ssodha_CarRental.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Ssodha_CarRental.props",
+      "PackagePath": "buildMultiTargeting\\Ssodha_CarRental.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Ssodha_CarRental.props",
+      "PackagePath": "buildTransitive\\Ssodha_CarRental.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

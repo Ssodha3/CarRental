@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ssodha_CarRental.props" />
+</Project>

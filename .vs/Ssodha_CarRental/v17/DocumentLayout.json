@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7971B027-5A21-4470-A987-383D74491D84}|Ssodha_CarRental\\Ssodha_CarRental.csproj|d:\\class work all sem\\1sem\\software development\\assigment\\completed assigment\\3\\sscarrental\\ssodha_carrental\\ssodha_carrental\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7971B027-5A21-4470-A987-383D74491D84}|Ssodha_CarRental\\Ssodha_CarRental.csproj|solutionrelative:ssodha_carrental\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7971B027-5A21-4470-A987-383D74491D84}|Ssodha_CarRental\\Ssodha_CarRental.csproj|d:\\class work all sem\\1sem\\software development\\assigment\\completed assigment\\3\\sscarrental\\ssodha_carrental\\ssodha_carrental\\pages\\reservationform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7971B027-5A21-4470-A987-383D74491D84}|Ssodha_CarRental\\Ssodha_CarRental.csproj|solutionrelative:ssodha_carrental\\pages\\reservationform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ssodha_CarRental\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Ssodha_CarRental\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T02:19:17.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationForm.cshtml",
+              "DocumentMoniker": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\Pages\\ReservationForm.cshtml",
+              "RelativeDocumentMoniker": "Ssodha_CarRental\\Pages\\ReservationForm.cshtml",
+              "ToolTip": "D:\\Class Work All Sem\\1Sem\\Software Development\\Assigment\\Completed Assigment\\3\\SsCarRental\\Ssodha_CarRental\\Ssodha_CarRental\\Pages\\ReservationForm.cshtml",
+              "RelativeToolTip": "Ssodha_CarRental\\Pages\\ReservationForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T01:58:49.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
